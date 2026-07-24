@@ -52,3 +52,15 @@ ReadDocs 同时支持以下格式：
 |-----|-----|
 | A   | B   |
 ```
+
+### 插入图片
+
+Markdown 中插入图片非常简单：
+
+```markdown
+![描述文字](图片路径)
+```
+
+效果如下：
+
+![ReadDocs Banner](_static/images/readdocs-banner.svg)

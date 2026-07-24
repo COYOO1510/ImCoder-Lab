@@ -32,3 +32,8 @@ source_suffix = {
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+
+# 加载自定义 CSS
+html_css_files = [
+    'custom.css',
+]
