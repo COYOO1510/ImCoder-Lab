@@ -1,9 +1,9 @@
-COYOO 文档
-===========
+ImCoder Lab简介
+===============
 
 .. toctree::
    :maxdepth: 1
-   :caption: COYOO 模块
+   :caption: ImCoder Lab简介
 
    COYOO
 

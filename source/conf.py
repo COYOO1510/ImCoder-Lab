@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'XCode'
-copyright = '2024, COYOO'
+project = 'ImCoder Lab'
+copyright = '2026, COYOO'
 author = 'COYOO'
 release = 'V1.0'
 
@@ -32,6 +32,9 @@ source_suffix = {
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+
+# 网站 Logo（显示在侧边栏顶部）
+html_logo = '_static/images/logo.svg'
 
 # 加载自定义 CSS
 html_css_files = [

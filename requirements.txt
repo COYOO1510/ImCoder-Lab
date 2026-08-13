@@ -1,0 +1,8 @@
+# ReadDocs - Sphinx 文档项目依赖
+# 安装方式：pip install -r requirements.txt
+# 版本组合已按本机实际安装锁定（myst-parser 2.x 要求 sphinx>=6,<8）
+
+sphinx>=7,<8
+myst-parser>=2,<3
+sphinx-rtd-theme>=1,<2
+pillow

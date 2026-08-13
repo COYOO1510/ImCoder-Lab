@@ -3,10 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-ReadDocs 文档中心
-==================
+ImCoder Lab 文档中心
+====================
 
-欢迎来到 ReadDocs 文档中心！这里汇集了项目相关的所有文档资料。
+ImCoder Lab — Embedded · Hardware · Software
+
+让每一次开发经验，都成为下一次设计的起点。
 
 .. toctree::
    :maxdepth: 2
