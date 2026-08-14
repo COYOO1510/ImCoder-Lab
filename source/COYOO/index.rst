@@ -2,7 +2,7 @@ ImCoder Lab产品
 ===============
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: 数据采集模块
 
    COYOO

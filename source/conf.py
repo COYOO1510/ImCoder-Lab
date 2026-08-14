@@ -19,6 +19,9 @@ extensions = ['myst_parser', 'sphinx_rtd_theme']
 templates_path = ['_templates']
 exclude_patterns = []
 
+collapse_navigation = False
+navigation_depth = 2
+
 language = 'zh_CN'
 
 # 支持 markdown 文件
