@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'ImCoder Lab'
-copyright = '2026, COYOO'
-author = 'COYOO'
+copyright = '2026, ImCoder Lab'
+author = 'ImCoder Lab'
 release = 'V1.0'
 
 # -- General configuration ---------------------------------------------------
