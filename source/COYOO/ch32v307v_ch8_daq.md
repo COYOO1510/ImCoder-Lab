@@ -63,10 +63,11 @@ orphan: true
 
 ### 5.1. 首次使用
 
-1. 将整个 `PC/release/ImCoder V8DAQ V1.0` 文件夹复制到电脑，不要只复制 EXE 文件。
-2. 连接采集设备。首次连接时，使用 Zadig 将采集设备的**接口 0**驱动改为 `WinUSB`。
-3. 不要修改 WCH-LinkRV 等调试下载器的驱动。
-4. 双击 `ImCoder V8DAQ V1.0.exe` 启动上位机。
+1. 将整个 `ImCoder V8DAQ V1.0` 文件夹复制到电脑，不要只复制 EXE 文件。
+2. 连接采集设备。首次连接时，使用 Zadig 将采集设备的`DAQ CH8 ImCoder Lab`驱动改为 `WinUSB`。
+3. 双击 `ImCoder V8DAQ V1.0.exe` 启动上位机。
+
+![zadig](../_static/images/zadig.png)
 
 ### 5.2. 开始采集
 
@@ -90,7 +91,7 @@ orphan: true
 
 点击左侧“频谱分析”，选择分析通道、窗函数和 FFT 点数，即可查看主频、THD、THD+N、SNR、SINAD 和 SFDR 等结果。
 
-![V8DAQ](../_static/images/FFT1.png)
+![FFT1](../_static/images/FFT1.png)
 
 ### 5.5. 数据记录与回放
 
