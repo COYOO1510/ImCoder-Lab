@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
+  <rect width="600" height="200" fill="#1a1a2e" rx="10"/>
+  <text x="300" y="70" text-anchor="middle" fill="#e94560" font-size="36" font-family="Arial" font-weight="bold">ReadDocs</text>
+  <text x="300" y="115" text-anchor="middle" fill="#0f3460" font-size="18" font-family="Arial">Sphinx + Markdown 文档系统</text>
+  <line x1="150" y1="140" x2="450" y2="140" stroke="#e94560" stroke-width="2" opacity="0.5"/>
+  <text x="300" y="170" text-anchor="middle" fill="#888" font-size="14" font-family="Arial">构建 · 部署 · 分享</text>
+</svg>
