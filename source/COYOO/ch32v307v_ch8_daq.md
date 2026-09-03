@@ -4,7 +4,7 @@ orphan: true
 
 # CH32V307V_CH8_DAQ_V1.0
 
-![CH32V307V_CH8_DAQ_V1.0](../_static/images/CH32V307V_CH8_DAQ_V1.0.svg)
+![CH32V307V_CH8_DAQ_V1.0](../_static/images/CH32V307V_CH8_DAQ_V1.0.png)
 
 <div align="center">8 CH ｜ 16 bit ｜ 200 kSPS/CH ｜ 同步采样 ｜ USB 2.0</div>
 
@@ -56,3 +56,5 @@ orphan: true
 # 4. 硬件接口
 
 # 5. 使用教程
+
+![V8DAQ](../_static/images/V8DAQ.png)

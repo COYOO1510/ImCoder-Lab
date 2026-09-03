@@ -37,7 +37,7 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 # 网站 Logo（显示在侧边栏顶部）
-html_logo = '_static/images/logo.svg'
+html_logo = '_static/images/logo.png'
 
 # 加载自定义 CSS
 html_css_files = [

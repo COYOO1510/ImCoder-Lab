@@ -4,7 +4,7 @@ orphan: true
 
 # ESP32C6_CH8_DAQ_V1.0
 
-![ESP32C6_CH8_DAQ_V1.0](../_static/images/ESP32C6_CH8_DAQ_V1.0.svg)
+![ESP32C6_CH8_DAQ_V1.0](../_static/images/ESP32C6_CH8_DAQ_V1.0.png)
 
 <div align="center">8 CH ｜ 16 bit ｜ 200 kSPS/CH ｜ 同步采样 ｜ Wi-Fi TCP</div>
 
@@ -56,3 +56,4 @@ orphan: true
 # 4. 硬件接口
 
 # 5. 使用教程
+
